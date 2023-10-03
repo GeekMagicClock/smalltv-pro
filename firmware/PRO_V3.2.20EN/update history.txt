@@ -1,0 +1,102 @@
+V3.2.20 20231003
+1) fixed stock symbol save fail.
+
+V3.2.19 20231003
+1) Display boot.gif or boot.jpg if exists when power on.
+2) Cpu power package added.
+
+V3.2.18 20231002
+1) Added more candle options for stock and crypto coin.
+2) Support up to 10 stocks and 10 crypto coins loops.
+3) Modified the first time sync on the first boot.
+4) Added wifi reconnect if connection is lost, will try every 20minutes to reconnect.
+
+V3.2.16 20230911
+1) Fix Stock price colors, RED for price down, GREEN for price up.
+
+V3.2.15 20230904
+1) Fixed the issue in the monitor APP where it would freeze when the computer client is not running.
+
+2) Resolved the problem in the picture app where it would crash and restart after deleting all pictures and then re-entering the app.
+
+3) Weather interface animations have been changed to a customizable mode, allowing you to choose which one to display.
+
+4) Added total capacity and available capacity information on the weather and photo gallery webpages.
+
+V3.2.14 20230621
+1) 增加monitor APP。
+
+V3.2.13 20230616
+1)  修复binance.com在美国地区不可访问的问题。改用binance.us域名备用。其他地区不受影响。
+2）加入在开机过程中，在"Try connect WiFi"之后立刻断电，重复2次，第三次会禁用掉自启动应用。禁用成功时，会显示1s时长的“STOP AUTO APP...”
+3）修复Time APP自启动时，时间不同步问题。
+
+V3.2.12 20230529
+1) 修复不能删除文件名带+文件的问题。
+
+V3.2.11 20230524
+1）修复天气退出，操作过快，可能会崩溃问题，修改异步方式引入的问题。
+
+V3.2.10 20230520
+1）天气和时间的更新改为异步方式，不再会出现天气画面卡顿。
+2）时间不使用udp更新，改为http更新，每次更新天气成功后就会同步时间。这样方便管理。这次更新多，需要留意是否天气和时间有同步失败的情况。
+
+V3.2.9 20230515
+1) 修复夜间模式问题。
+
+V3.2.8 20230512
+1）修复夜间模式问题。
+2）优化了股票和加密货币的展示。
+
+V3.2.7 20230509
+1)  修复自启动APP问题。
+2）添加favicon.ico
+3）增加股票和加密货币自动切换轮播功能。
+
+V3.2.6 20230508
+1)  增加美国股票实时价格和K线，1分钟K线。
+2）加密货币改为K线。
+3）修复亮度显示问题。
+
+V3.2.3 20230415
+1) SSID 和WIFI 密码的特殊字符问题，但是单引号的SSID还是不能正常操作。（重要修复）
+
+V3.2.2 20230406
+1) 修复亮度问题，删除不用的文件。
+
+V3.2.1 20230405
+1)  全新设计的网页界面。
+2）设置会在网页上读取并展示。
+3）时间支持调色。
+4）支持夜间模式。
+5）修复加密货币API不可用的问题。
+6）增加温度、风速、气压不同的单位选项。
+
+
+V3.1.7 20230318
+1)  优化扫描热点的时间和容易断开连接的问题。
+2）修复热点开启一段时间就丢失的问题。需要同步到键盘时钟上面。
+3）修复相册内gif打开后不能被删除的问题。
+4）修复bitcoin 自启动未添加的问题。
+
+V3.1.6 20230316
+1）修复开启picture应用自启，退出时崩溃重启的问题。
+2）修复根目录不可删除的问题。
+3）升级页面增加中英文的提示。
+
+
+V3.1.5
+1）增加比特币应用。
+2）修复gif循环播放问题。
+3）增加ios 弹窗，待验证。
+
+V3.1.3
+1）支持上传gif展示在天气信息界面，轮播方式。
+2）时间增加异步同步方式。
+
+V3.1.2
+1）天气、时钟、相册、股票、B站、Ideas、设置
+2）修复大写JPG格式没有正确识别的问题，fs.html，其他固件需要同步此问题。
+3）双城城市天气。
+4）股市大盘
+5）
