@@ -1,6 +1,6 @@
 V3.2.19 20231007
 1) Display boot.gif or boot.jpg if exists when power on.
-2) Cpu power package added.
+2) Cpu power package added, new config file v1.2 should be imported to AIDA64.
 
 V3.2.18 20231002
 1) Added more candle options for stock and crypto coin.
