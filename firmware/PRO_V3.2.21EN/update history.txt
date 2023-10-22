@@ -1,3 +1,24 @@
+V3.2.21 20231021
+1) The seconds of the Clock app start move from the top.
+2) If the startup is not completed twice, on the third startup, it will enter AP mode and turn off automatic brightness, allowing you to reset.
+3) Cancel the dual-city weather settings.
+4) Fix the issue of city names.
+5) The Bitcoin app adds a 15-minute interval for updating the K-line chart and cancels the interval display.
+6) You can set the weather using either the city code or the city name.
+
+V3.2.20 20231003
+1) fixed stock symbol save fail.
+
+V3.2.19 20231003
+1) Display boot.gif or boot.jpg if exists when power on.
+2) Cpu power package added.
+
+V3.2.18 20231002
+1) Added more candle options for stock and crypto coin.
+2) Support up to 10 stocks and 10 crypto coins loops.
+3) Modified the first time sync on the first boot.
+4) Added wifi reconnect if connection is lost, will try every 20minutes to reconnect.
+
 V3.2.16 20230911
 1) Fix Stock price colors, RED for price down, GREEN for price up.
 
