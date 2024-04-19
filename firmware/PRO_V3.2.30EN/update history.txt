@@ -3,6 +3,7 @@ V3.2.30 20240419
 2) Fix Bitcoin layout etc, full pair name will be displayed, add a space to number when price is big than 999usd.
 3) Add support for more Latin chars, in weather app.
 4) Add gif files link to the web page.
+5) Fix update web page.
 
 V3.2.29 20240416
 1) Fix crop jpg display error on the web.
