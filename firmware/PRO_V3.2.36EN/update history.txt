@@ -1,5 +1,6 @@
-V3.2.35 20240531
-1) Fix Stock App error.
+V3.2.36 20240603
+1) Fix Stock App crash
+2) Fix Bitcoin app ui layout for "NOTUSDT" etc.
 
 V3.2.34 20240521
 1) Fix 12-hour format error in Time app.
