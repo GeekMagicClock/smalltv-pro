@@ -1,3 +1,22 @@
+V3.2.40 20240616
+1) Stock app: fix realtime price change percent.
+2) Bitcoin app: stable fix.
+3) Fix user defined NTP server.
+4) Fix crash when use http to sync time.
+
+V3.2.37 20240604
+1) Fix Stock app percent shows inf%.
+2) Change from 30 candles to 24 candles chart in Stock app.
+
+V3.2.36 20240603
+1) Fix Stock App crash
+2) Fix Bitcoin app ui layout for "NOTUSDT" etc.
+
+V3.2.34 20240521
+1) Fix 12-hour format error in Time app.
+2) Fix User-Agent error in Monitor app.
+3) Fix interval display in Bitcoin app.
+
 V3.2.33 20240514
 1) Fix button touch on some boards.
 
