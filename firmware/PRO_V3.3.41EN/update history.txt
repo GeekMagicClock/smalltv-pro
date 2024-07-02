@@ -1,3 +1,41 @@
+V3.3.41 20240702
+1) Comprehensive memory problem check and fix.
+2) Refactored Bitcoin implementation, interface and touch button response faster.
+3) Other minor fixes.
+4) Reminder: Please check the product model before upgrading!
+
+V3.2.40 20240616
+1) Stock app: fix realtime price change percent.
+2) Bitcoin app: stable fix.
+3) Fix user defined NTP server.
+4) Fix crash when use http to sync time.
+
+V3.2.37 20240604
+1) Fix Stock app percent shows inf%.
+2) Change from 30 candles to 24 candles chart in Stock app.
+
+V3.2.36 20240603
+1) Fix Stock App crash
+2) Fix Bitcoin app ui layout for "NOTUSDT" etc.
+
+V3.2.34 20240521
+1) Fix 12-hour format error in Time app.
+2) Fix User-Agent error in Monitor app.
+3) Fix interval display in Bitcoin app.
+
+V3.2.33 20240514
+1) Fix button touch on some boards.
+
+V3.2.32 20240509
+1) Optimize button double click.
+2) Optimize Stock app.
+3）Optimize Weather app.
+
+V3.2.31 20240503
+1) Change Bitcoin app candle numbers from 30 to 24.
+2) Fix error price in the number only theme under the Bitcoin app.
+3) Add a comma "," in the price if number large than 999usd, more readable.
+
 V3.2.30 20240419
 1) Fix image autoplay checkbox error display.
 2) Fix Bitcoin layout etc, full pair name will be displayed, add a space to number when price is big than 999usd.
