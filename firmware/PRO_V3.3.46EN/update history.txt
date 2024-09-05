@@ -1,3 +1,6 @@
+V3.3.46 20240904
+1) Fixed crash under some network. [Stable fix]
+
 V3.3.45 20240820
 1) Fix Stock app chart display.
 
