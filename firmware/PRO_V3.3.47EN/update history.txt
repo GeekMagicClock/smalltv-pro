@@ -1,3 +1,7 @@
+V3.3.47 20240907
+1) Remove debug info.
+2) Optimize gif display, more faster.
+
 V3.3.46 20240904
 1) Fixed crash under some network. [Stable fix]
 
