@@ -1,6 +1,9 @@
+V3.3.50 V3.3.50
+1) Fix boot.gif play error.
+2) Fix bitcoin price debug info.
+
 V3.3.49 20241208
 1) Fix bitcoin price bigger than 100000 display.
-If an error occurs during the upgrade, please disable auto start App, restart the device, and try the upgrade again.
 
 V3.3.48 20240922
 1) Fix crash in  Monitor app.
