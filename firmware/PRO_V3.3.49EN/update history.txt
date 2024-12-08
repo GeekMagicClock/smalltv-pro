@@ -1,5 +1,6 @@
 V3.3.49 20241208
 1) Fix bitcoin price bigger than 100000 display.
+If an error occurs during the upgrade, please disable auto start App, restart the device, and try the upgrade again.
 
 V3.3.48 20240922
 1) Fix crash in  Monitor app.
