@@ -1,3 +1,7 @@
+V3.3.50 V3.3.50
+1) Fix boot.gif play error.
+2) Fix bitcoin price debug info.
+
 V3.3.49 20241208
 1) Fix bitcoin price bigger than 100000 display.
 

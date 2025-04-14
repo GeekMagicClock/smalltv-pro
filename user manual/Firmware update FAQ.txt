@@ -1,0 +1,12 @@
+Upgrade method:
+
+0) First download the firmware file to your phone or computer.
+1) Go to "System" -> "Firmware Update" in the web console.
+2) Select the downloaded firmware bin file.
+3) Click Upload and wait for the upgrade to complete.
+4) DO NOT PLUG OFF while updating.
+
+
+Troubleshooting for failed upgrades:
+1) Some computer system browsers or antivirus software will modify the contents of the downloaded bin file, resulting in file errors and failure to upgrade successfully. Please try to download the zip format file, unzip it and upload it. This situation has a certain probability of occurring, please check.
+2) Try different browsers, chrome is recommended, and it can also be operated on mobile phones.

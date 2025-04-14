@@ -1,3 +1,17 @@
+V3.3.52 20250110
+1) Faster boot speed.
+2) Fix icon tearing when switch between Apps.
+
+V3.3.51 20241215
+1） Fix long coin symbol in the Bitcoin App.
+
+V3.3.50 V3.3.50
+1) Fix boot.gif play error.
+2) Fix bitcoin price debug info.
+
+V3.3.49 20241208
+1) Fix bitcoin price bigger than 100000 display.
+
 V3.3.48 20240922
 1) Fix crash in  Monitor app.
 
