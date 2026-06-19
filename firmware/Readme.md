@@ -7,4 +7,4 @@
 Good luck, check the model before update, This repo is for model: GeekMagic SmallTV Pro.
 
 ### Official Links
-- Website & Store: https://geekmagic.cc
+- Website Videos & Store: https://geekmagic.cc
